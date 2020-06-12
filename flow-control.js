@@ -3,11 +3,10 @@ function basicTeenager(age) {
 }
 
 function teenager(age) {
-if("You are a teenager!")
-return true
+if true
+return "You are a teenager!"
 } else {
-if("You are not a teenager")
-return false
+return  "You are not a teenager"
 }
 
 function ageChecker(age) {
